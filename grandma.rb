@@ -4,7 +4,6 @@ def speak_to_gradma(phrase)
     return "HUH? SPEAK UP, SONNY!"
   elsif phrase.upcase
   return "NO, NOT SINCE 1983!"
-  
 
 
 
