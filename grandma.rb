@@ -1,7 +1,7 @@
 require_relative 
 def speak_to_gradma(phrase)
   if pharse == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO SONNY!"
+    return "I LOVE YOU TOO PUMPKIN!"
     elsif 
     return "HUH? SPEAK UP, SONNY!"
   elsif phrase.upcase
