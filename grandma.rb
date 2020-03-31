@@ -1,6 +1,6 @@
  
 def speak_to_gradma(phrase)
-  if pharse.upcase == "I LOVE YOU GRANDMA!"
+  if pharse == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
     elsif phrase == phrase.upcase 
     return "NO, NOT SINCE 1983!"
