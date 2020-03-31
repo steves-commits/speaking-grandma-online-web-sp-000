@@ -4,8 +4,9 @@ def speak_to_gradma(phrase)
     return "I LOVE YOU TOO PUMPKIN!"
     elsif phrase == phrase.upcase 
     return "NO, NOT SINCE 1983!"
-  elsif phrase.upcase
-  return "NO, NOT SINCE 1983!"
+  else 
+  return "HUH?! SPEAK UP, SONNY!"
+end
 
 
 
