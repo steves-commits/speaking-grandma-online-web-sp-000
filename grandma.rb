@@ -7,6 +7,7 @@ def speak_to_gradma(phrase)
   else 
   return "HUH?! SPEAK UP, SONNY!"
 end
+end
 
 
 
