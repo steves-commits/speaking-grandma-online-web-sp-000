@@ -1,4 +1,4 @@
-require_relative 
+ 
 def speak_to_gradma(phrase)
   if pharse == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
@@ -7,7 +7,7 @@ def speak_to_gradma(phrase)
   else 
   return "HUH?! SPEAK UP, SONNY!"
 end
-
+end
 
 
 
