@@ -3,7 +3,7 @@ def speak_to_gradma(phrase)
   if pharse == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
     elsif phrase == phrase.upcase 
-    return "HUH? SPEAK UP, SONNY!"
+    return "NO, NOT SINCE 1983!"
   elsif phrase.upcase
   return "NO, NOT SINCE 1983!"
 
